@@ -1,0 +1,20 @@
+SNR: -10, Response: dois par, Correct Answers: paz_sul_dois_par, Clarity: 2
+SNR: -1, Response: mar chao um pe, Correct Answers: mar_chao_um_fe, Clarity: 4
+SNR: -2, Response: grao mae, Correct Answers: pao_grau_bem_lei, Clarity: 2
+SNR: -3, Response: par tom mae, Correct Answers: mae_par_tom_la, Clarity: 3
+SNR: -4, Response: mae par, Correct Answers: fim_mae_mel_par, Clarity: 2
+SNR: -5, Response: um fe se, Correct Answers: sul_um_pe_cem, Clarity: 3
+SNR: -6, Response: azul par , Correct Answers: cor_fe_azul_pau, Clarity: 1
+SNR: -7, Response: dois chao, Correct Answers: dois_pau_chao_bem, Clarity: 2
+SNR: -8, Response: mar fe azul, Correct Answers: lar_sul_se_azul, Clarity: 3
+SNR: -9, Response: cor gel, Correct Answers: ceu_fim_po_gel, Clarity: 2
+SNR: 0, Response: tres sul cão , Correct Answers: tres_sul_pao_gel, Clarity: 3
+SNR: 1, Response: cel par tom luz, Correct Answers: ceu_par_tom_luz, Clarity: 3
+SNR: 2, Response: grau cor mar lua, Correct Answers: grau_cor_mar_lua, Clarity: 4
+SNR: 3, Response: grau sul mil cha, Correct Answers: grau_fim_mil_cha, Clarity: 4
+SNR: 4, Response: ceu par fim gas, Correct Answers: ceu_pao_fim_gas, Clarity: 4
+SNR: 5, Response: bem deus cão chao, Correct Answers: bem_deus_pao_chao, Clarity: 4
+SNR: 6, Response: fe tres mae dois, Correct Answers: fe_tres_mae_dois, Clarity: 4
+SNR: 7, Response: mel deus fe tom, Correct Answers: mel_deus_pe_tom, Clarity: 4
+SNR: 8, Response: luz tres pau fe, Correct Answers: luz_tres_pau_fe, Clarity: 4
+SNR: 9, Response: lua sim mar fe, Correct Answers: lua_sim_mar_pe, Clarity: 4

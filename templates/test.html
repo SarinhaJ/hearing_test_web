@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>听力测试 - SNR {{ snr }} dB</title>
+</head>
+<body>
+    <h1>测试 - SNR: {{ snr }} dB</h1>
+    <audio controls autoplay>
+        <source src="{{ audio_file }}" type="audio/wav">
+        您的浏览器不支持音频播放。
+    </audio>
+    <form method="post">
+        <label for="response">您听到了哪些词？（用空格分隔）</label><br>
+        <input type="text" id="response" name="response" required><br><br>
+        <label for="clarity_count">您清楚地听到了多少个词？（请输入数字）</label><br>
+        <input type="number" id="clarity_count" name="clarity_count" min="0" max="4" required><br><br>
+        <button type="submit">提交并继续</button>
+    </form>
+</body>
+</html>
